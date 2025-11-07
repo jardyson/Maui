@@ -1,0 +1,29 @@
+# 核心：过滤 obj/Debug/Release 文件夹
+[Oo][Bb][Jj]/
+[Dd][Ee][Bb][Uu][Gg]/
+[Rr][Ee][Ll][Ee][Aa][Ss][Ee]/
+bin/
+
+# VS 项目文件
+*.vs/
+.vscode/
+
+# 编译产物
+*.exe
+*.dll
+*.pdb
+*.dll.config
+*.manifest
+*.cache
+*.xml
+*.log
+
+# MAUI 特定产物
+*.apk
+*.aab
+*.ipa
+*.app
+*.maccatalyst/
+*.ios/
+*.android/
+obj/Release/net*/

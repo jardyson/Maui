@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/DBFramework/">
+    <Project Path="DBContext/DBContext.csproj" />
+    <Project Path="DTO/DTO.csproj" />
+  </Folder>
+  <Folder Name="/Framework/">
+    <Project Path="DeviceDelar/DeviceDelar.csproj" />
+    <Project Path="DeviceHelper/DeviceHelper.csproj" />
+    <Project Path="Global.Interface/Global.Interface.csproj" />
+    <Project Path="GlobalDeclar/GlobalDeclar.csproj" />
+  </Folder>
+  <Folder Name="/Projects/" />
+  <Project Path="MauiApp1/MauiApp1.csproj" Id="a67f40d0-077a-4583-8098-a4afa3d002ea" />
+  <Project Path="MauiApp2/MauiApp2.csproj" Id="70e06f2a-9cf3-4709-8682-14a04fdec0db">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
