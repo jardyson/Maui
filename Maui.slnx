@@ -10,8 +10,7 @@
     <Project Path="GlobalDeclar/GlobalDeclar.csproj" />
   </Folder>
   <Folder Name="/Projects/" />
-  <Project Path="MauiApp1/MauiApp1.csproj" Id="a67f40d0-077a-4583-8098-a4afa3d002ea" />
-  <Project Path="MauiApp2/MauiApp2.csproj" Id="70e06f2a-9cf3-4709-8682-14a04fdec0db">
+  <Project Path="MauiApp2/MauiApp2.csproj" Id="d49d23db-a8ca-4a18-9df1-8c0bf1b4702e">
     <Deploy Solution="Debug|*" />
   </Project>
 </Solution>
